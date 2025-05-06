@@ -1,0 +1,4 @@
+env: "production"
+port: 8080
+store:
+  kind: s3

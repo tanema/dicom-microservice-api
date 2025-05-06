@@ -1,0 +1,4 @@
+env: "testing"
+port: 8080
+store:
+  kind: memory

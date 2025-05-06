@@ -1,0 +1,6 @@
+env: "staging"
+port: 8080
+store:
+  kind: local
+  assetPath: ./tmp/store
+  tmpPath: ./tmp
