@@ -28,9 +28,9 @@ Find the scripts to run endpoints
 
 ### Assignment
 Design a RESTful API that is able to
-  -[x] accept and store an uploaded DICOM file
-  -[x] extract and return any DICOM header attribute based on a DICOM Tag as a query parameter
-  -[x] finally convert the file into a PNG for browser-based viewing.
+  - [x] accept and store an uploaded DICOM file
+  - [x] extract and return any DICOM header attribute based on a DICOM Tag as a query parameter
+  - [x] finally convert the file into a PNG for browser-based viewing.
 
 Note: You may assume that storage of DICOM files locally is acceptable for this assignment.
 
